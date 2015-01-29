@@ -1,0 +1,12 @@
+{
+  "name": "version",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "log4js":"~0.6.14",
+    "socket.io": "~0.9.16"
+  }
+}
